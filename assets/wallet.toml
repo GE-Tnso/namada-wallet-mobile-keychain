@@ -1,0 +1,22 @@
+[view_keys]
+
+[spend_keys]
+
+[payment_addrs]
+
+[secret_keys]
+my_wallet = "sample"
+
+[public_keys]
+my_wallet = "sample"
+
+[derivation_paths]
+my_wallet = "m/44'/877'/0'/0'/0'"
+
+[addresses]
+my_wallet = "sample"
+
+[pkhs]
+0F920F7A717C8CFCD58EF0E864B427E01042BA68 = "my_wallet"
+
+[address_vp_types]
