@@ -13,7 +13,7 @@ Namada wallet for iOS and Android.
 ## Architecture
 Flutter UI → FFI bridge → Mobile SDK wrapper → Namada SDK.
 
-- **Flutter**: app screens, state, and UX
+- **Flutter**: UX/UI, SDK and Indexer API integrations.
 - **FFI**: low level bridge between Dart and Rust code.
 - **Mobile SDK wrapper**: rust wrapper built on top of the official Namada SDK crates.
 
