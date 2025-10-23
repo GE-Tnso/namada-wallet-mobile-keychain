@@ -3,7 +3,7 @@
 Namada wallet for iOS and Android.
 
 ## How does it look like?
-<img src="assets/demo.gif" alt="Demo" width="480">
+<img src="assets/demo.gif" alt="Demo" width="360">
 
 ## Features
 - Key management: create, import.
