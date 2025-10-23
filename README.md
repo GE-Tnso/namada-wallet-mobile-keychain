@@ -2,6 +2,9 @@
 # namada-mobile-wallet-keychain
 Client mobile wallet for iOS and Android.
 
+![Demo of the feature](assets/demo.gif)
+
+
 Integration flow: Flutter + FFI + Mobile SDK lib wrapper + SDK Namada. 
 
 Note:
